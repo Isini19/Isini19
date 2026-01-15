@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Isini%20Udara%20✨&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Isini%20Udara%20✨&fontSize=50&animation=fadeIn&fontAlignY=35" />
   <br>
   <b>🚀 Aspiring Business Analyst | Business Intelligence Professional | MIS Undergraduate</b>
 </p>
@@ -21,7 +21,7 @@
         <li>🎯 <b>Current Focus:</b> SQL, Power BI, and Data Storytelling</li>
         <li>🎨 <b>Interests:</b> Data Storytelling & Dashboard Design</li>
       </ul>
-      <p>📬 <b>Let's Talk:</b> <a href="mailto:isiniudara19@gmail.com">isiniudarahm@gmail.com</a></p>
+      <p>📬 <b>Let's Talk:</b> <a href="mailto:isiniudarahm@gmail.com">isiniudarahm@gmail.com</a></p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
@@ -36,12 +36,12 @@
   <tr>
     <td width="50%">
       <b>🚀 Project 01:</b><br>
-      <i></i><br>
+      <i>[Project Name Here]</i><br>
       🔗 <a href="https://github.com/Isini19">View Repository</a>
     </td>
     <td width="50%">
       <b>📊 Project 02: </b><br>
-      <i></i><br>
+      <i>[Project Name Here]</i><br>
       🔗 <a href="https://github.com/Isini19">View Repository</a>
     </td>
   </tr>
@@ -85,7 +85,6 @@
 <hr>
 
 <h2 align="center">🌐 Connect with me</h2>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isini-udara-30b93b283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
