@@ -13,34 +13,30 @@
 <table align="center">
   <tr>
     <td width="55%" style="vertical-align: top;">
-      <div align="left" style="border: 1px solid #bd93f9; border-radius: 10px; padding: 15px; background-color: #0d1117;">
+      <div align="left" style="border: 2px solid #bd93f9; border-radius: 12px; padding: 15px; background-color: #0d1117;">
         <h3>🎓 Personal Details</h3>
         <p>🏫 <b>University:</b> NSBM Green University</p>
         <p>📚 <b>Degree:</b> B.Sc. in MIS (Special Degree)</p>
         <p>🎯 <b>Career Path:</b> Business Intelligence & Data Science</p>
-        <p>📧 <b>Email:</b> isiniudara19@gmail.com</p>
+        <p>📧 <b>Email:</b> isiniudarahm@gmail.com</p>
       </div>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
     </td>
   </tr>
 </table>
 
 <hr>
 
-<h2 align="center">📊 GitHub Statistics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isini19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isini19&layout=compact&theme=radical&hide_border=true" width="45%" />
-</div>
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isini19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isini19&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isini19&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isini19&theme=radical&utcOffset=5.5" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isini19&theme=radical&hide_border=true" width="48%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isini19&theme=radical&utcOffset=5.5" width="48%" />
+</p>
 
 <hr>
 
