@@ -35,13 +35,13 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <b>🚀 Project 01: [Project Name Here]</b><br>
-      <i>Brief description of your project (e.g., Sales Analysis Dashboard using Power BI).</i><br>
+      <b>🚀 Project 01:</b><br>
+      <i></i><br>
       🔗 <a href="https://github.com/Isini19">View Repository</a>
     </td>
     <td width="50%">
-      <b>📊 Project 02: [Project Name Here]</b><br>
-      <i>Brief description of your project (e.g., Database Management System using SQL).</i><br>
+      <b>📊 Project 02: </b><br>
+      <i></i><br>
       🔗 <a href="https://github.com/Isini19">View Repository</a>
     </td>
   </tr>
