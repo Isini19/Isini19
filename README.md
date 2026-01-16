@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Isini%20Udara%20✨&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Isini%20Udara%20✨&fontSize=70&animation=fadeIn&fontAlignY=35" />
   <br>
   <b>🚀 Aspiring Business Analyst | Business Intelligence Professional | MIS Undergraduate</b>
 </p>
@@ -12,7 +12,7 @@
 
 <table align="center">
   <tr>
-    <td width="60%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top;">
       <h3>👋 About Me</h3>
       <p>I am a dedicated <b>Management Information Systems (MIS)</b> undergraduate at <b>NSBM Green University</b>. I am passionate about leveraging data to drive business decisions and creating impactful visualizations.</p>
       <ul>
@@ -23,8 +23,8 @@
       </ul>
       <p>📬 <b>Let's Talk:</b> <a href="mailto:isiniudarahm@gmail.com">isiniudarahm@gmail.com</a></p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
     </td>
   </tr>
 </table>
@@ -35,13 +35,13 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <b>🚀 Project 01:</b><br>
-      <i>[Project Name Here]</i><br>
+      <b>🚀 Project 01: Sales Insight Dashboard</b><br>
+      <i>Interactive Power BI dashboard for retail data analysis.</i><br>
       🔗 <a href="https://github.com/Isini19">View Repository</a>
     </td>
     <td width="50%">
-      <b>📊 Project 02: </b><br>
-      <i>[Project Name Here]</i><br>
+      <b>📊 Project 02: SQL Database Management</b><br>
+      <i>Optimized database schema for inventory tracking.</i><br>
       🔗 <a href="https://github.com/Isini19">View Repository</a>
     </td>
   </tr>
@@ -50,8 +50,9 @@
 <hr>
 
 <h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isini19&theme=dracula&area=true&hide_border=true" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isini19&theme=dracula&area=true&hide_border=true" width="85%" />
 </p>
 
 <p align="center">
@@ -92,5 +93,5 @@
 </p>
 
 <p align="center">
-  <i>"The goal is to turn data into information, and information into insight."</i> — <b>Carly Fiorina</b>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20goal%20is%20to%20turn%20data%20into%20information%2C%20and%20information%20into%20insight.&author=Carly%20Fiorina" />
 </p>
