@@ -34,17 +34,17 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isini19&theme=dracula&area=true&hide_border=true" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isini19&theme=dracula&area=true&hide_border=true&cache=1" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isini19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isini19&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isini19&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isini19&layout=compact&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Isini19&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isini19&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isini19&theme=radical&hide_border=true&v=1" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isini19&theme=radical&v=1" width="48%" />
 </p>
 
 <hr>
