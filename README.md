@@ -34,17 +34,28 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isini19&theme=dracula&area=true&hide_border=true&cache=1" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isini19&theme=dracula&area=true&hide_border=true" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isini19&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isini19&layout=compact&theme=radical&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isini19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isini19&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isini19&theme=radical&hide_border=true&v=1" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isini19&theme=radical&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isini19&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isini19&theme=radical" width="48%" />
+</p>
+
+<hr>
+
+<h2 align="center">🛠 Languages & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 <hr>
