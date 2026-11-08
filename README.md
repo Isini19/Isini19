@@ -1,74 +1,240 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Isini%20Udara%20✨&fontSize=70&animation=fadeIn&fontAlignY=35" />
-  <br>
-  <b>🚀 Aspiring Business Analyst | Business Intelligence Professional | MIS Undergraduate</b>
+
+<div align="center">
+
+# Hi, I'm Isini Udara 👋
+
+### Management Information Systems Undergraduate | Business Analysis & Business Intelligence | ERP & Systems Analytics | Financial Analytics
+
+<p>
+  Interested in connecting business processes, technology and data to develop practical business solutions.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isini19&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+<a href="https://www.linkedin.com/in/isini-udara-30b93b283">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:isiniudarahm@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I am a **Management Information Systems undergraduate at NSBM Green University** and a **CA Sri Lanka student**, interested in applying technology and analytical thinking to solve business problems.
+
+My interests include:
+
+- Business Analysis and Requirements Understanding
+- Business Intelligence and Data Visualisation
+- ERP and Enterprise Information Systems
+- Business Process Modelling and Systems Analysis
+- Financial Analytics
+
+My academic background in MIS, together with my accounting and audit experience, helps me understand both business operations and the role of technology in supporting business decisions.
+
+I enjoy learning through practical projects and continuously developing my technical, analytical and problem-solving skills.
+
+---
+
+## 🛠️ Technical Skills
+
+**Data Analytics & Business Intelligence**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-<hr>
+**Programming & Web Development**
 
-<table align="center">
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h3>👋 About Me</h3>
-      <p>I am a dedicated <b>Management Information Systems (MIS)</b> undergraduate at <b>NSBM Green University</b>. I am passionate about leveraging data to drive business decisions and creating impactful visualizations.</p>
-      <ul>
-        <li>📊 <b>Specialization:</b> Business Analytics | Business Intelligence & Data Analytics</li>
-        <li>🏫 <b>Education:</b> B.Sc. in MIS (Special), NSBM</li>
-        <li>🎯 <b>Current Focus:</b> SQL, Power BI, and Data Storytelling</li>
-        <li>🎨 <b>Interests:</b> Data Storytelling & Dashboard Design</li>
-      </ul>
-      <p>📬 <b>Let's Talk:</b> <a href="mailto:isiniudarahm@gmail.com">isiniudarahm@gmail.com</a></p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4bmxueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-    </td>
-  </tr>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
+
+**Business & Professional Knowledge**
+
+- Business Analysis Fundamentals
+- Business Process Modelling
+- Requirements Understanding
+- Systems Analysis Fundamentals
+- Financial Accounting and Auditing
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Sri Lanka Energy Dashboard
+*Solo Project · Power BI*
+
+Interactive dashboard exploring Sri Lanka's historical electricity generation and energy mix.
+
+**My Contribution**
+- Developed an interactive Power BI dashboard.
+- Visualised fossil fuel and renewable electricity trends.
+- Added year-range filtering for historical analysis.
+
+**Tools:** Power BI
+
+<a href="https://github.com/Isini19/srilanka-energy-dashboard">🔗 Source</a>
+
+</td>
+<td width="50%" valign="top">
+
+### PetCare+
+*Team Project · Mobile Application*
+
+Flutter and Firebase mobile application designed to help pet owners manage pet information, discover veterinary hospitals and access pet-care services.
+
+**My Contribution**
+- Developed hospital discovery and details functionalities.
+- Worked on appointment booking and management.
+- Implemented queue tracking functionality.
+- Developed the veterinarian dashboard.
+- Contributed to notifications, pet data management and role-based access.
+
+**Technologies:** Flutter · Dart · Firebase
+
+<a href="https://github.com/Chamindu18/petcare">🔗 Source</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Task Management System
+*Team Project · Full-Stack Application*
+
+Full-stack task management application developed to support task organisation and management through a web-based platform.
+
+**My Contribution**
+- Contributed to the Admin Dashboard.
+- Worked on dashboard UI development.
+- Developed data visualisation components.
+
+**Technologies:** React · Spring Boot · MySQL
+
+<a href="https://github.com/Chamindu18/task-management-system">🔗 Source</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Design Drop
+*Solo Project · Web Development*
+
+Individual learning project focused on a web-based T-shirt design marketplace concept.
+
+**Project Focus**
+- Explored the development of an online marketplace.
+- Worked on implementing the platform as an individual learning project.
+
+**Technologies:** Refer to the project repository.
+
+<a href="https://github.com/Isini19/DesignDrop">🔗 Source</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### LifeLink SL
+*Team Project · HCI & UI/UX Design*
+
+Mobile application prototype focused on blood donation and donor-related services.
+
+**My Contribution**
+- Designed the Home Dashboard.
+- Designed the Donation History screen.
+- Designed the Donation Confirmation screen.
+- Designed the User Profile screen.
+
+**Tool:** Figma
+
+<a href="https://www.figma.com/design/qqQo5vEfmywMQ67sk2mgjX/LifeLink---Mobile-App-Design?node-id=18-2&p=f">🔗 Figma Design</a>
+
+</td>
+<td width="50%" valign="top">
+
+### LibConnect
+*Team Project · Business Process Management*
+
+Library management process improvement project focused on the book borrowing and renewal process.
+
+**My Contribution**
+- Designed the Book Pick-up QR Code screen.
+- Created the AS-IS process diagram to represent the existing process.
+
+**Tools:** Figma · Business Process Modelling
+
+<a href="https://www.figma.com/design/DHUc2HezhZNowM6jFn83Ol/Library-Book-Borrowing---Renewal-Process?timeline=keyframe&node-id=226-347&p=f">🔗 Figma Design</a>
+
+</td>
+</tr>
 </table>
 
-<hr>
+---
 
-<h2 align="center">📊 Contribution Calendar</h2>
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isini19&theme=radical" width="75%" />
-</p>
+- Business Analysis and Requirements Engineering
+- SQL for Data Analysis
+- Power BI and Data Visualisation
+- Python for Data Analytics
+- Business Process Modelling
+- ERP and Enterprise Information Systems
 
-<h2 align="center">📈 GitHub Analytics</h2>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isini19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isini19&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+## 🎯 Career Interests
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isini19&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isini19&theme=radical" width="48%" />
-</p>
+- Business Analyst
+- Business Intelligence Analyst
+- Data Analyst
+- ERP / Business Systems Analyst
+- Systems Analyst
+- Financial Data Analyst
 
-<hr>
+---
 
-<h2 align="center">🛠 Languages & Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+## 🤝 Connect With Me
 
-<hr>
+<div align="center">
 
-<h2 align="center">🌐 Connect with me</h2>
+<a href="https://github.com/Isini19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/isini-udara-30b93b283">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:isiniudarahm@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isini-udara-30b93b283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:isiniudarahm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20goal%20is%20to%20turn%20data%20into%20information%2C%20and%20information%20into%20insight.&author=Carly%20Fiorina" />
-</p>
+---
+
+<div align="center">
+
+*Learning continuously. Building practically. Connecting business and technology.*
+
+</div>
